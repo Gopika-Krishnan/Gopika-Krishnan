@@ -1,4 +1,4 @@
-### Hi there :bird:, I am Gopika!
+### Hello there, I am Gopika! :bird:
 
 <!--
 **Gopika-Krishnan/Gopika-Krishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

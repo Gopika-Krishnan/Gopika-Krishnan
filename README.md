@@ -3,7 +3,6 @@
 I am an undergraduate student at NYU Abu Dhabi, passionate about data science and machine learning. I am majoring in Computer Science with minors in Applied Math and Sound and Music Computing. I find data science incredibly interesting because it enables you to transform loads of data into invaluable information and insights. That journey of transformation can be challenging in nature; to explore different techniques and analyses, to solve a puzzle, but that is what makes it all the more exciting! ✨
 
 - 🔭 I’m currently working on <b>Pop Culture Data and trying to understand the nature of its different sectors</b>
-- 🌱 I’m currently learning <b><a href="https://www.coursera.org/learn/dna-analysis">bioinformatics</a></b> to explore the relation between the fields of computer science and biology. 
 - 💬 Ask me about anything, I'm happy to help!
 
 <br />

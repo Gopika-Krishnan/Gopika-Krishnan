@@ -1,8 +1,8 @@
 ### Hello there, I am Gopika! :bird:
 
-I am an undergraduate student at NYU Abu Dhabi, passionate about data science and machine learning. I am majoring in Computer Science with minors in Applied Math and Sound and Music Computing. I find data science incredibly interesting because it enables you to transform loads of data into invaluable information and insights. That journey of transformation can be challenging in nature; to explore different techniques and analyses, to solve a puzzle, but that is what makes it all the more exciting! ✨
+Hello there! I am a researcher holding a Bachelor's degree from New York University, Abu Dhabi, where I majored in Computer Science and minored in Applied Math and Interactive Media. My interests lie at the intersection of technology and music, specifically in the realm of music information retrieval, with a keen interest in machine learning applications. I am particularly enthusiastic about exploring how data science and machine learning can unravel the intricate tapestry of cultural evolution, artistic practices, and geographical adaptations within music. My focus extends to preserving and advancing traditional musical practices, notably in Carnatic and Maqam music systems, through the development of innovative technological tools.
 
-- 🔭 I’m currently working on <b>Pop Culture Data and trying to understand the nature of its different sectors</b>
+- 🔭 I’m currently working on <b>Pop Culture Data and trying to study the evolution of different musical styles that constitute it</b>
 - 💬 Ask me about anything, I'm happy to help!
 
 <br />

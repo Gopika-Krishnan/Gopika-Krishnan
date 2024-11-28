@@ -1,8 +1,9 @@
 ### Hello there, I am Gopika! :bird:
 
-Hello there! I am a researcher holding a Bachelor's degree from New York University, Abu Dhabi, where I majored in Computer Science and minored in Applied Math and Interactive Media. My interests lie at the intersection of technology and music, specifically in the realm of music information retrieval, with a keen interest in machine learning applications. I am particularly enthusiastic about exploring how data science and machine learning can unravel the intricate tapestry of cultural evolution, artistic practices, and geographical adaptations within music. My focus extends to preserving and advancing traditional musical practices, notably in Carnatic and Maqam music systems, through the development of innovative technological tools.
+Hii, I am a researcher currently pursuing my master’s degree in the Erasmus Mundus Joint Master in Artificial Intelligence (EMAI) at Universitat Pompeu Fabra (UPF). Previously, I earned a Bachelor's degree in Computer Science from New York University, Abu Dhabi, with minors in Applied Mathematics and Interactive Media.
 
-- 🔭 I’m currently working on <b>Pop Culture Data and trying to study the evolution of different musical styles that constitute it</b>
+My research interests include developing creative tools for music and exploring knowledge discovery and representation. I am particularly passionate about using machine learning and data science to study cultural evolution, artistic practices, and geographical influences in music. My work focuses on contributing to the preservation and innovation of traditional musical systems, through cutting-edge technological solutions.
+
 - 💬 Ask me about anything, I'm happy to help!
 
 <br />
